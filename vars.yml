@@ -1,0 +1,4 @@
+# vars.yml
+admin_username: "admin"
+admin_password: "paloalto17"
+mgmt_ip: "fwmgmt.aws"

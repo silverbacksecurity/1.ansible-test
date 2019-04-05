@@ -28,7 +28,7 @@
       include_vars: vars.yml  
       no_log: 'yes'
 
-    - name: Create NAT rule for Web server
+    - name: WILLLITWORK
       panos_nat_rule:
         ip_address: "{{ mgmt_ip }}"
         password: "{{admin_password}}"
